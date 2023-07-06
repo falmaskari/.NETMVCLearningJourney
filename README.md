@@ -10,4 +10,4 @@ MVC stands for Model, View, and Controller. MVC separates an application into th
 
 <b>Controller:</b> It handles the user request. Typically, the user uses the view and raises an <b>HTTP</b> request, which will be handled by the controller. The controller processes the request and returns the appropriate view as a response.
 
-<img src="./.NET MVC.mvc.png" align="center" height="220" width="210" />
+![mvc](https://github.com/falmaskari/.NETMVCLearningJourney/assets/130557093/a34d8111-9adc-4235-a96e-226bc3c9b0e3)
